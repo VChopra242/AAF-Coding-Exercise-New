@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584ED7D4-FA52-457B-9323-DAD0634170E6}|LegacyAppUnitTests\\LegacyAppUnitTests.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyappunittests\\userservicehelpersunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584ED7D4-FA52-457B-9323-DAD0634170E6}|LegacyAppUnitTests\\LegacyAppUnitTests.csproj|solutionrelative:legacyappunittests\\userservicehelpersunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584ED7D4-FA52-457B-9323-DAD0634170E6}|LegacyAppUnitTests\\LegacyAppUnitTests.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyappunittests\\userserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584ED7D4-FA52-457B-9323-DAD0634170E6}|LegacyAppUnitTests\\LegacyAppUnitTests.csproj|solutionrelative:legacyappunittests\\userserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyapp\\services\\userservicehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\services\\userservicehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyapp\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyapp\\models\\domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\models\\domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|c:\\users\\veekr\\google drive\\vikram chopra resume\\jobs\\tim baldwin -  angleauto\\aaf coding exercise\\legacyapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01B013E-5274-4512-B472-2CB1CAEF2A64}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyAppUnitTests\\UserServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "LegacyAppUnitTests\\UserServiceUnitTests.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyAppUnitTests\\UserServiceUnitTests.cs",
+              "RelativeToolTip": "LegacyAppUnitTests\\UserServiceUnitTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:40:27.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceHelpersUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyAppUnitTests\\UserServiceHelpersUnitTests.cs",
+              "RelativeDocumentMoniker": "LegacyAppUnitTests\\UserServiceHelpersUnitTests.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyAppUnitTests\\UserServiceHelpersUnitTests.cs",
+              "RelativeToolTip": "LegacyAppUnitTests\\UserServiceHelpersUnitTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:45:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Services\\UserServiceHelpers.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Services\\UserServiceHelpers.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Services\\UserServiceHelpers.cs",
+              "RelativeToolTip": "LegacyApp\\Services\\UserServiceHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:41:11.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Services\\IUserService.cs",
+              "RelativeToolTip": "LegacyApp\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:46:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Models\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "LegacyApp\\Models\\Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:42:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Models\\Domain\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Models\\Domain\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Models\\Domain\\DTO\\UserDto.cs",
+              "RelativeToolTip": "LegacyApp\\Models\\Domain\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:42:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Veekr\\Google Drive\\Vikram Chopra Resume\\Jobs\\Tim Baldwin -  angleauto\\AAF Coding Exercise\\LegacyApp\\Services\\UserService.cs",
+              "RelativeToolTip": "LegacyApp\\Services\\UserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:40:36.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
